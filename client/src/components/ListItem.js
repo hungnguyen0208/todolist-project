@@ -1,6 +1,7 @@
-const ListItem = () => {
+const ListItem = ({task}) => {
     return (
-      <div>Your todolist here
+      <div>
+        <p>{task.title}</p>
       </div>
     );
   }
