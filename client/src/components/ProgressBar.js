@@ -1,6 +1,6 @@
 const ProgressBar = () => {
     return (
-      <div>Your todolist here
+      <div>
       </div>
     );
   }
